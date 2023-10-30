@@ -1,0 +1,538 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    background-color: black;
+    min-height: 100vh;
+
+}
+
+#headings {
+    font-family: Roboto;
+
+}
+
+.sidebar {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.logo {
+    height: 12vh;
+}
+
+.logo1 {
+    height: 12vh;
+
+}
+
+.but-nav {
+
+    width: 60px;
+    text-align: center;
+    background-color: #60a375;
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 15px;
+    border: 2px solid #60a375;
+}
+
+.box-awe {
+    height: 60px;
+    width: 140px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+
+.awesome {
+    font-size: 30px;
+
+}
+
+.para-box {
+    text-align: center;
+    font-family: Roboto;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.dot {
+    font-size: 50px;
+    margin-left: 10px;
+}
+
+.box-awe1 {
+    height: 40px;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+
+.sec-1 {
+    padding: 30px;
+}
+
+.main-head {
+    font-family: Roboto;
+    font-size: 80px;
+    color: white;
+    font-weight: bold;
+}
+
+.main-para {
+    font-family: Roboto;
+    font-size: 30px;
+    color: white;
+    width: 600px;
+    padding-top: 10px;
+
+}
+
+.main-but {
+    width: 250px;
+    height: 70px;
+    text-align: center;
+    background-color: #60a375;
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 2px solid #60a375;
+}
+
+.card-item {
+    display: flex;
+    min-height: 12vh;
+    min-width: 290px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.card-para {
+    font-family: Roboto;
+    font-size: 15px;
+    color: white;
+    padding-left: 20px;
+}
+
+.card-head {
+    font-family: Roboto;
+    font-size: 40px;
+    color: white;
+    padding-left: 20px;
+}
+
+.randa {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.line {
+    color: white;
+    border: 1px solid;
+}
+
+.sec-2 {
+    padding: 30px;
+}
+
+.middle-head {
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.middle-card {
+    height: 9vh;
+    width: 290px;
+
+}
+
+.reduce-logo {
+    height: 5vh;
+}
+
+.card-para1 {
+    font-family: Roboto;
+    font-size: 15px;
+    color: white;
+    padding-left: 20px;
+    width: 290px;
+}
+
+.middle-head2 {
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+.token-head {
+    font-family: Roboto;
+    font-size: 50px;
+    color: white;
+    padding: 30px;
+}
+
+.token-logo {
+    height: 6vh;
+}
+
+.token-sec {
+    padding: 30px;
+}
+
+.zomi-head {
+    color: white;
+    font-family: Roboto;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+.dots {
+    font-size: 30px;
+    color: white;
+    padding-left: 10px;
+}
+
+.big-card {
+    display: flex;
+    flex-direction: column;
+    min-height: 25vh;
+    width: 450px;
+    border: 1px solid #60a375;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.card-para3 {
+    font-family: Roboto;
+    font-size: 15px;
+    color: white;
+    padding-top: 10px;
+
+}
+
+.eth-para {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #9da19e;
+}
+
+.buy-but {
+    height: 50px;
+    width: 90px;
+    text-align: center;
+    background-color: #60a375;
+    color: white;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+    border: 1px solid #60a375;
+    border-radius: 10px;
+}
+
+.read-but {
+    height: 50px;
+    width: 130px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+    border: 1px solid #d540e3;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.last-one {
+    color: grey;
+    font-size: 38px;
+
+}
+
+.sanvi {
+    margin-left: 30px;
+}
+
+.last-list {
+    list-style-type: none;
+    color: white;
+    font-family: Roboto;
+}
+
+@media screen and (max-width:768px) {
+    .main-head {
+        font-family: Roboto;
+        font-size: 40px;
+        color: white;
+        font-weight: bold;
+    }
+
+    .main-para {
+        font-family: Roboto;
+        font-size: 18px;
+        color: white;
+        width: 400px;
+        padding-top: 10px;
+
+    }
+
+    .main-but {
+        width: 150px;
+        height: 40px;
+        text-align: center;
+        background-color: #60a375;
+        color: white;
+        font-family: Roboto;
+        font-weight: bold;
+        font-size: 12px;
+        margin-top: 10px;
+        border-radius: 10px;
+        border: 2px solid #60a375;
+    }
+
+    .card-item {
+        min-height: 10vh;
+        width: 500px;
+        border: 1px solid grey;
+        border-radius: 10px;
+        padding: 13px;
+
+    }
+
+    .kishore {
+        display: flex;
+        flex-direction: column !important;
+
+    }
+
+    .madam {
+        display: flex;
+        justify-content: flex-start !important;
+        margin-bottom: 20px;
+    }
+
+    .card-para {
+        font-family: Roboto;
+        font-size: 12px;
+        color: white;
+        padding-top: 15px;
+
+    }
+
+    .card-head {
+        font-family: Roboto;
+        font-size: 20px;
+        color: white;
+        padding-left: 20px;
+    }
+
+    .kutti {
+        height: 4vh;
+    }
+
+    .raju {
+        display: flex;
+        flex-direction: column !important;
+    }
+
+    .token-head {
+        font-family: Roboto;
+        font-size: 30px;
+        color: white;
+        padding: 30px;
+    }
+
+    .token-logo {
+        height: 5vh;
+    }
+
+    .chutki {
+        display: flex;
+        flex-direction: column !important;
+    }
+
+    .big-card {
+        min-height: 30vh;
+        width: 450px;
+        border: 1px solid #60a375;
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+    .but-column {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .buy-but {
+        height: 40px;
+        width: 400px;
+        text-align: center;
+        background-color: #60a375;
+        color: white;
+        font-family: Roboto;
+        font-weight: 500;
+        font-size: 15px;
+        border: 1px solid #60a375;
+        border-radius: 10px;
+    }
+
+    .read-but {
+        height: 40px;
+        width: 350px;
+        text-align: center;
+        background-color: black;
+        color: white;
+        font-family: Roboto;
+        font-weight: 500;
+        font-size: 15px;
+        border: 1px solid #d540e3;
+        border-radius: 10px;
+        margin-top: 10px;
+
+
+    }
+
+    .dabol {
+        display: flex;
+        flex-direction: column !important;
+
+    }
+
+    .da-dad {
+        height: 20vh;
+        margin-top: 20px;
+        width: 550px !important;
+    }
+
+
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.dash-bg {
+    background-color: black;
+    min-height: 100vh;
+    padding: 30px;
+}
+
+.dash-head {
+    color: white;
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+.da-logo {
+    height: 3vh;
+
+}
+
+.da-para {
+    color: white;
+    font-family: Roboto;
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.underline {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.da-card {
+    min-height: 10vh;
+    width: 450px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 15px;
+
+}
+
+.da-line {
+    border: 2px solid white;
+}
+
+.da-mom {
+    height: 20vh;
+    width: 550px;
+}
+
+.da-dad {
+    height: 30vh;
+    width: 1100px;
+    margin-top: 20px;
+}
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.earn-bg {
+    background-color: black;
+    min-height: 100vh;
+    padding: 30px;
+}
+
+.earn-head {
+    font-family: Roboto;
+    font-size: 40px;
+    color: white;
+    padding-left: 30px;
+}
+
+.earn-para {
+    font-family: Roboto;
+    font-size: 12px;
+    color: white;
+    padding-left: 30px;
+}
+
+.earn-card {
+    min-height: 20vh;
+    width: 400px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 15px;
+}
+
+.earn-line {
+    border: 1px solid white;
+}
+
+.earn-under {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.but-nav3 {
+
+    width: 80px;
+    text-align: center;
+    background-color: #60a375;
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 12px;
+    border: 2px solid #60a375;
+}
+
+.nanaa {
+    font-size: 60px;
+    color: black;
+}
